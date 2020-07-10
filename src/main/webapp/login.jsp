@@ -21,14 +21,14 @@
         <h2 class="form-heading">Log in</h2>
 
         <div class="form-group ${error != null ? 'has-error' : ''}">
-            <span>${message}</span>
+            <span>${message}</span><br/>
             <input name="email" type="text" class="form-control" placeholder="email"
-                   autofocus="true"/>
+                   autofocus="true"/><br/>
             <input name="password" type="password" class="form-control" placeholder="Password"/>
             <span>${error}</span>
-            <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
+            <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/><br/>
 
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Log In</button>
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Log In</button><br/>
             <h4 class="text-center"><a href="${contextPath}/registration">Create an account</a></h4>
         </div>
       </form>
