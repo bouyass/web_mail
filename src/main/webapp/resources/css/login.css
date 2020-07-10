@@ -1,5 +1,38 @@
 .container {
 	
-	
+	display:flex;
+	margin-left:50%;
+	position:absolute;
+	margin-top:30%;
+
 	
 }
+
+
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  
+}
+.logo{
+
+}
+form-container{
+	width:500px;
+	background-color:#00d1b2;
+}
+.input{
+	width:400px;
+}
+
+.form-heading{
+	font-size:30px;
+}
+#error{
+	color:red;
+}
+#message{
+	color:green;
+}]
