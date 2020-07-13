@@ -23,7 +23,7 @@
     </form>
     
 </nav>
-  <div  style="width:80%;" class="container">
+  <div style="margin-top:10px;width:90%;" class="container-fluid">
      <div  class="row">
     
     <div class="titles col col-xl-2">
@@ -35,7 +35,7 @@
       	<li> Corbeille</li>
       </ul>
     </div>
-    <div class="mail_data col col-xl-2">
+    <div class="mail_data col col-xl-3">
       3 of 3
     </div>
     <div class="mail_body  col">
