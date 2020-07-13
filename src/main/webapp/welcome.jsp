@@ -23,26 +23,26 @@
     </form>
     
 </nav>
-  <div style="margin-top:10px;width:90%;" class="container-fluid">
+  <div style="margin-top:30px;width:90%;" class="container-fluid">
       <div class="row">
     <div class="actions col">
       <img src="resources/images/newMail.svg">&nbsp;&nbsp; <b>New mail</b>
     </div>
     <div class="actions col">
-      1 of 2
+
     </div>
     <div class="actions col">
-      1 of 2
+
     </div>
     <div class="actions col">
-      1 of 2
+
     </div>
     <div class="actions col">
-      1 of 2
+
     </div>
     
     <div class="actions col">
-      1 of 2
+
     </div>
     
 
@@ -50,12 +50,13 @@
      <div  class="row">
     
     <div class="titles col col-xl-2">
+    	<br/><br/>
       <ul>
-      	<li> Boite de réception</li>
-      	<li> Elements Envoyes</li>
-      	<li> Brouillon</li>
-      	<li> Spam</li>
-      	<li> Corbeille</li>
+      	<li><img class="list" src="resources/images/inbox.svg"> <a href="#"><b>&nbsp;&nbsp; Boite de réception</b></a></li>
+      	<li><img class="list" src="resources/images/outbox.svg"> <a href="#"><b>&nbsp;&nbsp; Elements envoyes</b></a></li>
+      	<li><img class="list" src="resources/images/draft.svg"> <a href="#"><b>&nbsp;&nbsp; Brouillon</b></a></li>
+      	<li><img class="list" src="resources/images/spam.svg"> <a href="#"><b>&nbsp;&nbsp; Spam</b></a></li>
+      	<li><img class="list" src="resources/images/trash.svg"> <a href="#"><b>&nbsp;&nbsp; Corbeille</b></a></li>
       </ul>
     </div>
     <div class="mail_data col col-xl-3">
