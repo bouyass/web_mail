@@ -24,6 +24,29 @@
     
 </nav>
   <div style="margin-top:10px;width:90%;" class="container-fluid">
+      <div class="row">
+    <div class="actions col">
+      New mail
+    </div>
+    <div class="actions col">
+      1 of 2
+    </div>
+    <div class="actions col">
+      1 of 2
+    </div>
+    <div class="actions col">
+      1 of 2
+    </div>
+    <div class="actions col">
+      1 of 2
+    </div>
+    
+    <div class="actions col">
+      1 of 2
+    </div>
+    
+
+  </div>
      <div  class="row">
     
     <div class="titles col col-xl-2">
