@@ -45,3 +45,10 @@ a{
 .list{
 	height:15px;
 }
+
+.mail_data{
+	border-right:1px solid black;
+}
+.mail_body{
+	border-right:1px solid black;
+}

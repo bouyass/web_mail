@@ -60,10 +60,10 @@
       </ul>
     </div>
     <div class="mail_data col col-xl-3">
-      3 of 3
+
     </div>
     <div class="mail_body  col">
-      1 of 3
+
     </div>
   </div>
   </div>
