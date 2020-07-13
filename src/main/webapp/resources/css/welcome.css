@@ -1,0 +1,30 @@
+img{
+	height:25px;
+}
+.btn{
+	margin-right:5px;
+}
+.titles{
+	border:1pw solid black;
+	height:500px;
+	background-color:yellow;
+}
+
+.mail_data{
+	border:1pw solid black;
+	height:500px;
+	background-color:blue;
+}
+
+.mail_body{
+	border:1pw solid black;
+	height:500px;
+	background-color:red;
+	width:800px;
+}
+
+.container{
+	margin-top:10px;
+	background-color:pink;
+
+}
