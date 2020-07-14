@@ -26,7 +26,7 @@
   <div style="margin-top:30px;width:90%;" class="container-fluid">
       <div class="row">
     <div class="actions col">
-      <img src="resources/images/newMail.svg">&nbsp;&nbsp; <b>New mail</b>
+      <img src="resources/images/newMail.svg">&nbsp;&nbsp; <a href="#"><b>New mail</b></a>
     </div>
     <div class="actions col">
 
