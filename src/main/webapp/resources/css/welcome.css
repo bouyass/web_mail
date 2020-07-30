@@ -13,13 +13,13 @@ img{
 .mail_data{
 	border:1pw solid black;
 	height:600px;
-	background-color:;
+
 }
 
 .mail_body{
 	border:1pw solid black;
 	height:600px;
-	background-color:;
+
 	width:800px;
 }
 
@@ -30,7 +30,7 @@ img{
 }
 
 .actions{
-	background-color: ;
+
 	height:30px;
 }
 
@@ -51,4 +51,11 @@ a{
 }
 .mail_body{
 	border-right:1px solid black;
+}
+.info-mail{
+	padding-bottom:5px;
+}
+.info-mail:hover{
+	border: 1px solid gray;
+	background-color:  #c1e1fb;
 }

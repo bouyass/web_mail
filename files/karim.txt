@@ -1,0 +1,74 @@
+From lyes@lyes  Tue Jun 30 15:20:08 2020
+Return-Path: <lyes@lyes>
+X-Original-To: karim@lyes.com
+Delivered-To: karim@lyes.com
+Received: by lyes.wifirst.net (Postfix, from userid 1000)
+	id 7EB80A807F; Tue, 30 Jun 2020 15:20:08 +0200 (CEST)
+Subject: this is the subject of the email 1 
+To: <karim@lyes.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200630132008.7EB80A807F@lyes.wifirst.net>
+Date: Tue, 30 Jun 2020 15:20:08 +0200 (CEST)
+From: lyes <lyes@lyes>
+
+My name is Lyes 
+
+From lyes@lyes  Tue Jun 30 15:20:43 2020
+Return-Path: <lyes@lyes>
+X-Original-To: karim@lyes.com
+Delivered-To: karim@lyes.com
+Received: by lyes.wifirst.net (Postfix, from userid 1000)
+	id 95337A807F; Tue, 30 Jun 2020 15:20:43 +0200 (CEST)
+Subject: this is the subject of the email 2
+To: <karim@lyes.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200630132043.95337A807F@lyes.wifirst.net>
+Date: Tue, 30 Jun 2020 15:20:43 +0200 (CEST)
+From: lyes <lyes@lyes>
+
+My name is Lyes and yours is karim 
+
+From lyes@lyes  Tue Jun 30 15:34:57 2020
+Return-Path: <lyes@lyes>
+X-Original-To: karim@lyes.com
+Delivered-To: karim@lyes.com
+Received: by lyes.wifirst.net (Postfix, from userid 1000)
+	id A40E3A715F; Tue, 30 Jun 2020 15:34:57 +0200 (CEST)
+Subject: this is the subject of the email 3
+To: <karim@lyes.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200630133457.A40E3A715F@lyes.wifirst.net>
+Date: Tue, 30 Jun 2020 15:34:57 +0200 (CEST)
+From: lyes <lyes@lyes>
+
+test sharing with windows 
+
+From lyes@lyes  Tue Jun 30 15:53:52 2020
+Return-Path: <lyes@lyes>
+X-Original-To: karim@lyes.com
+Delivered-To: karim@lyes.com
+Received: by lyes.wifirst.net (Postfix, from userid 1000)
+	id 34F43A7163; Tue, 30 Jun 2020 15:53:52 +0200 (CEST)
+Subject: this is the subject of the email 4 
+To: <karim@lyes.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200630135352.34F43A7163@lyes.wifirst.net>
+Date: Tue, 30 Jun 2020 15:53:52 +0200 (CEST)
+From: lyes <lyes@lyes>
+
+test synchronization 
+
+From lyes@lyes  Tue Jun 30 16:03:17 2020
+Return-Path: <lyes@lyes>
+X-Original-To: karim@lyes.com
+Delivered-To: karim@lyes.com
+Received: by lyes.wifirst.net (Postfix, from userid 1000)
+	id ED0DEA7163; Tue, 30 Jun 2020 16:03:17 +0200 (CEST)
+Subject: this is the subject of the email 5
+To: <karim@lyes.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200630140317.ED0DEA7163@lyes.wifirst.net>
+Date: Tue, 30 Jun 2020 16:03:17 +0200 (CEST)
+From: lyes <lyes@lyes>
+
+test synchronization 4

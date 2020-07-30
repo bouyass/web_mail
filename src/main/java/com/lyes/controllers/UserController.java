@@ -1,14 +1,13 @@
 package com.lyes.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import com.lyes.model.User;
+import com.lyes.services.LoadEmails;
 import com.lyes.services.UserService;
 
 @Controller
@@ -16,15 +15,21 @@ public class UserController {
 
 	@Autowired
 	private UserService userService;
+	@Autowired 
+	@Qualifier("fileLoader")
+	private LoadEmails loader;
 	
 
 	
 	@GetMapping({"/","/welcome"})
-	public String welcome(Model model) {
+	public String welcome(Model model) throws Exception {
+		System.out.println("user service initialization");
+		model.addAttribute("emails", loader.loadEmails("karim"));
+		System.out.println(loader.loadEmails("karim").size());
 		return "welcome";
 	}
 	
-
+ 
 	@GetMapping("/login")
 	public String login(Model model, String error, String logout) {
 		
